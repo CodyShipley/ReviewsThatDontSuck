@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "name": "Reviews That Don't Suck",
+  "description": "Reviews that don't suck.",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "CShipley",
   "dependencies": {
     "gatsby": "^1.9.204",
     "gatsby-link": "^1.6.37",
